@@ -1,6 +1,8 @@
 #include <stdio.h>
 /**
- *programming is worth it
+ * * * main - Entry point
+ *  *  * 
+ *   *  *Return: Always 0 (success)
  **/
 int main(void)
 {
